@@ -1,4 +1,4 @@
-# web3frontendexample
+# Vue web3 example
 
 ## Project setup
 ```
